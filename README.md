@@ -541,5 +541,3 @@ Through this project, I learned:
 This project is licensed under the MIT License.
 
 ---
-
-⭐ If you find this project useful, consider giving it a star!
