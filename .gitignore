@@ -1,0 +1,13 @@
+# Ignore compiled Java code
+*.class
+out/
+bin/
+
+# Ignore IDE settings
+.idea/
+.vscode/
+*.iml
+
+# Ignore system junk
+.DS_Store
+Thumbs.db
